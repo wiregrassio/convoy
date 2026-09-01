@@ -1,0 +1,17 @@
+# Rust
+target/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+dist/
+build/
+
+# OS
+.DS_Store
+
+# Local-only scratch (never commit)
+scratch/
+*.local.md
